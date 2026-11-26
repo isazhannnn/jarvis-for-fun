@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """Portable whisper.cpp adapter with a faster-whisper-compatible small API.
 
 Only NumPy is needed in addition to the Python standard library. The official

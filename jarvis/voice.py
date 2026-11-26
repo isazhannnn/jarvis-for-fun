@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """Offline Russian speech recognition and optional spoken replies.
 
 Vosk and sounddevice are imported lazily. Importing this module never opens a

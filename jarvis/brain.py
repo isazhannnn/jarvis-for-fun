@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """A private, lazily started local language model for conversation only.
 
 Model output is plain text. It is never interpreted as a command, Python code,

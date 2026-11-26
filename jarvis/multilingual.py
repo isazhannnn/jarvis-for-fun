@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """On-device multilingual microphone recognition using a local Whisper model.
 
 The module itself imports only the standard library. Model and audio packages

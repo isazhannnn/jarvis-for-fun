@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """Explicit desktop commands and a separate conversational local model."""
 from __future__ import annotations
 

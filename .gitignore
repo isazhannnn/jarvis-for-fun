@@ -23,3 +23,7 @@ tests/.*-temp/
 *.key
 .vscode/
 .idea/
+
+# Reviewed portfolio artwork only
+!assets/
+!assets/jarvis-banner.png

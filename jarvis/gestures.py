@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """Optional local webcam hand control with explicit arming and an emergency stop.
 
 The classifier and interpreter intentionally have no camera or desktop imports,

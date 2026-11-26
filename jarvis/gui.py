@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """Native, keyboard-accessible desktop interface for the local assistant."""
 from __future__ import annotations
 

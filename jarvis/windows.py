@@ -1,3 +1,4 @@
+# Parsec KZ | JARVIS Experiment 001 | See COPYRIGHT.md
 """Small explicit Windows operations. Never runs shell-generated commands."""
 from __future__ import annotations
 
